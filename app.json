@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df0d0d5c-bbcf-4356-99d5-d7081142a2e1"
+      }
+    },
+    "owner": "seguraedwin5"
   }
 }

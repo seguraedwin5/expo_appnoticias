@@ -1,0 +1,265 @@
+{
+    
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Vive USA",
+            "title": "Alta presión y debilitamiento del material, posible causa de la implosión del Titán - Vive USA",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnZpdmV1c2EubXgvbm90aWNpYXMvYWx0YS1wcmVzaW9uLXktZGViaWxpdGFtaWVudG8tZGVsLW1hdGVyaWFsLXBvc2libGUtY2F1c2EtZGUtbGEtaW1wbG9zaW9uLWRlbC10aXRhbi_SAYIBaHR0cHM6Ly93d3cudml2ZXVzYS5teC9ub3RpY2lhcy9hbHRhLXByZXNpb24teS1kZWJpbGl0YW1pZW50by1kZWwtbWF0ZXJpYWwtcG9zaWJsZS1jYXVzYS1kZS1sYS1pbXBsb3Npb24tZGVsLXRpdGFuLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T19:28:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EsCiclismo.com",
+            "title": "Vuelta a Colombia: Miguel Ángel López no deja ni las migajas y gana también la séptima etapa - EsCiclismo.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmVzY2ljbGlzbW8uY29tL2FjdHVhbGlkYWQvY2FycmV0ZXJhLzc2NzA5Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T18:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La República",
+            "title": "El dólar revierte tendencia de ayer y cierra la jornada al alza a $4.168,80, en promedio - La República",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmxhcmVwdWJsaWNhLmNvL2ZpbmFuemFzL3ByZWNpb3MtZGVsLWRvbGFyLXktZGVsLXBldHJvbGVvLWhveS0yMy1kZS1qdW5pby1kZS0yMDIzLTM2NDMxNDjSAWRodHRwczovL2FtcC5sYXJlcHVibGljYS5jby9maW5hbnphcy9wcmVjaW9zLWRlbC1kb2xhci15LWRlbC1wZXRyb2xlby1ob3ktMjMtZGUtanVuaW8tZGUtMjAyMy0zNjQzMTQ4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T18:11:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RCN Radio",
+            "title": "RCN Radio anuncia evolución de su sistema informativo - RCN Radio",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnJjbnJhZGlvLmNvbS9jb2xvbWJpYS9yY24tcmFkaW8tYW51bmNpYS1ldm9sdWNpb24tZGUtc3Utc2lzdGVtYS1pbmZvcm1hdGl2b9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T17:27:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La República",
+            "title": "Cambios en Aval: modificaciones en las presidencias de Banco de Bogotá y Occidente - La República",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmxhcmVwdWJsaWNhLmNvL2ZpbmFuemFzL2NhbWJpb3MtZW4tYXZhbC1tb2RpZmljYWNpb25lcy1lbi1sYXMtcHJlc2lkZW5jaWFzLWRlLWJhbmNvLWRlLWJvZ290YS15LW9jY2lkZW50ZS0zNjQzMzIx0gF9aHR0cHM6Ly9hbXAubGFyZXB1YmxpY2EuY28vZmluYW56YXMvY2FtYmlvcy1lbi1hdmFsLW1vZGlmaWNhY2lvbmVzLWVuLWxhcy1wcmVzaWRlbmNpYXMtZGUtYmFuY28tZGUtYm9nb3RhLXktb2NjaWRlbnRlLTM2NDMzMjE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T16:46:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC News Mundo",
+            "title": "Titanic: qué sigue ahora tras la confirmación de la muertes de las 5 personas que iban en el sumergible Titán - BBC News Mundo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmJiYy5jb20vbXVuZG8vYXJ0aWNsZXMvY2QxOG16eHo0djJv0gEzaHR0cHM6Ly93d3cuYmJjLmNvbS9tdW5kby9hcnRpY2xlcy9jZDE4bXp4ejR2Mm8uYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T16:35:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "En vivo: avanza diálogo de transmisión de final Millonarios vs. Nacional en pantallas - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5lbHRpZW1wby5jb20vZGVwb3J0ZXMvZnV0Ym9sLWNvbG9tYmlhbm8vZW4tdml2by1hdmFuemEtZGlhbG9nby1kZS10cmFuc21pc2lvbi1kZS1maW5hbC1taWxsb25hcmlvcy12cy1uYWNpb25hbC1lbi1wYW50YWxsYXMtNzgwMTUz0gGSAWh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9hbXAvZGVwb3J0ZXMvZnV0Ym9sLWNvbG9tYmlhbm8vZW4tdml2by1hdmFuemEtZGlhbG9nby1kZS10cmFuc21pc2lvbi1kZS1maW5hbC1taWxsb25hcmlvcy12cy1uYWNpb25hbC1lbi1wYW50YWxsYXMtNzgwMTUz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T16:07:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Terra Colombia",
+            "title": "Clara Chía y prometida de Marc Piqué son grandes amigas, según reportes - Terra Colombia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50ZXJyYS5jb20uY28vZW50cmV0ZW5pbWllbnRvLzIwMjMvNi8yMy9jbGFyYS1jaGlhLXByb21ldGlkYS1kZS1tYXJjLXBpcXVlLXNvbi1ncmFuZGVzLWFtaWdhcy1zZWd1bi1yZXBvcnRlcy03MTk0Lmh0bWzSAYEBaHR0cHM6Ly93d3cudGVycmEuY29tLmNvL2VudHJldGVuaW1pZW50by8yMDIzLzYvMjMvY2xhcmEtY2hpYS1wcm9tZXRpZGEtZGUtbWFyYy1waXF1ZS1zb24tZ3JhbmRlcy1hbWlnYXMtc2VndW4tcmVwb3J0ZXMtNzE5NC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T15:59:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La República",
+            "title": "“Vamos a proponer que la reforma laboral que nos hundieron se vuelva a presentar” - La República",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmxhcmVwdWJsaWNhLmNvL2Vjb25vbWlhL3ZhbW9zLWEtcHJvcG9uZXItcXVlLWxhLXJlZm9ybWEtbGFib3JhbC1xdWUtbm9zLWh1bmRpZXJvbi1zZS12dWVsdmEtYS1wcmVzZW50YXItMzY0MzI3MdIBe2h0dHBzOi8vYW1wLmxhcmVwdWJsaWNhLmNvL2Vjb25vbWlhL3ZhbW9zLWEtcHJvcG9uZXItcXVlLWxhLXJlZm9ybWEtbGFib3JhbC1xdWUtbm9zLWh1bmRpZXJvbi1zZS12dWVsdmEtYS1wcmVzZW50YXItMzY0MzI3MQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T15:53:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EL HERALDO",
+            "title": "Armando Benedetti responde a citación de la Fiscalía: guardará silencio - EL HERALDO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmVsaGVyYWxkby5jby9jb2xvbWJpYS9hcm1hbmRvLWJlbmVkZXR0aS1yZXNwb25kZS1jaXRhY2lvbi1kZS1sYS1maXNjYWxpYS1ndWFyZGFyYS1zaWxlbmNpby0xMDEwNTgz0gFyaHR0cHM6Ly93d3cuZWxoZXJhbGRvLmNvL2NvbG9tYmlhL2FybWFuZG8tYmVuZWRldHRpLXJlc3BvbmRlLWNpdGFjaW9uLWRlLWxhLWZpc2NhbGlhLWd1YXJkYXJhLXNpbGVuY2lvLTEwMTA1ODM_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T15:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Zona Cero",
+            "title": "Críticas a Carnaval tras entrega de Congos de Oro, por \"mercantilización\" de la fiesta - Zona Cero",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vem9uYWNlcm8uY29tL3NvY2lhbGVzL2NyaXRpY2FzLWNhcm5hdmFsLXRyYXMtZW50cmVnYS1kZS1jb25nb3MtZGUtb3JvLXBvci1tZXJjYW50aWxpemFjaW9uLWRlLWxhLWZpZXN0YdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T15:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Noticias RCN",
+            "title": "Millonarios vs. Nacional: se conoció quién será el árbitro que 'impartirá justicia' en El Campín - Noticias RCN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5vdGljaWFzcmNuLmNvbS9kZXBvcnRlcy9taWxsb25hcmlvcy12cy1uYWNpb25hbC15YS10aWVuZS1hcmJpdHJvLTQ0ODQ2N9IBWGh0dHBzOi8vd3d3Lm5vdGljaWFzcmNuLmNvbS9hbXAvZGVwb3J0ZXMvbWlsbG9uYXJpb3MtdnMtbmFjaW9uYWwteWEtdGllbmUtYXJiaXRyby00NDg0Njc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T15:08:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EL HERALDO",
+            "title": "¿Gobierno de Gustavo Petro declarará emergencia económica y social para atender crisis en La Guajira? - EL HERALDO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmVsaGVyYWxkby5jby9jb2xvbWJpYS9nb2JpZXJuby1kZS1ndXN0YXZvLXBldHJvLWRlY2xhcmFyYS1lbWVyZ2VuY2lhLWVjb25vbWljYS15LXNvY2lhbC1wYXJhLWF0ZW5kZXItY3Jpc2lzLWVuLWxh0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T14:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "DW (Español)",
+            "title": "Cumbre climática logra consenso sobre sistema financiero - DW (Español)",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmR3LmNvbS9lcy9jdW1icmUtY2xpbSVDMyVBMXRpY2EtZGUtcGFyJUMzJUFEcy1sb2dyYS1jb25zZW5zby1zb2JyZS1zaXN0ZW1hLWZpbmFuY2llcm8vYS02NjAxNDc1MdIBbGh0dHBzOi8vYW1wLmR3LmNvbS9lcy9jdW1icmUtY2xpbSVDMyVBMXRpY2EtZGUtcGFyJUMzJUFEcy1sb2dyYS1jb25zZW5zby1zb2JyZS1zaXN0ZW1hLWZpbmFuY2llcm8vYS02NjAxNDc1MQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T13:38:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC News Mundo",
+            "title": "Titanic |“No me hubiera subido al sumergible Titán”: James Cameron, director de cine que realizó más de 30 expediciones a los restos del transatlántico - BBC News Mundo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmJiYy5jb20vbXVuZG8vYXJ0aWNsZXMvY2xtNXY0bDlrbDFv0gEzaHR0cHM6Ly93d3cuYmJjLmNvbS9tdW5kby9hcnRpY2xlcy9jbG01djRsOWtsMW8uYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T13:27:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Vanguardia",
+            "title": "Crimen en Bucaramanga: Los detalles del asesinato de alias 'Blanca', la pareja de 'Cocacolo' - Vanguardia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL20udmFuZ3VhcmRpYS5jb20vanVkaWNpYWwvY3JpbWVuLWVuLWJ1Y2FyYW1hbmdhLWxvcy1kZXRhbGxlcy1kZWwtYXNlc2luYXRvLWRlLWFsaWFzLWJsYW5jYS1sYS1wYXJlamEtZGUtY29jYWNvbG8tQUY2ODc4NjQw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T11:40:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Canal RCN ",
+            "title": "Capítulo 75 de Ana de nadie del 22 de junio - Canal RCN ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNhbmFscmNuLmNvbS9hbmEtZGUtbmFkaWUvY2FwaXR1bG9zL2FuYS1kZS1uYWRpZS1jYXBpdHVsby03NS1xdWl0YW5kby1sYS12ZW5kYS1kZS1sb3Mtb2pvcy01Mzc20gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T03:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Zona Cero",
+            "title": "Incendio en el parque Isla Salamanca ya ha consumido 479 hectáreas - Zona Cero",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vem9uYWNlcm8uY29tL2dlbmVyYWxlcy9pbmNlbmRpby1lbi1lbC1wYXJxdWUtaXNsYS1zYWxhbWFuY2EteWEtaGEtY29uc3VtaWRvLTQ3OS1oZWN0YXJlYXPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T03:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Empresas: cómo les fue a las 1.000 compañías más grandes del país en 2022 - Empresas - Economía - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9lY29ub21pYS9lbXByZXNhcy9lbXByZXNhcy1jb21vLWxlcy1mdWUtYS1sYXMtMS0wMDAtY29tcGFuaWFzLW1hcy1ncmFuZGVzLWRlbC1wYWlzLWVuLTIwMjItNzgwMTA00gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T02:41:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Canal RCN ",
+            "title": "MasterChef: Claudia Bahamón regresó al programa y puso a cocinar a los chefs - Canal RCN ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNhbmFscmNuLmNvbS9zdXBlci1saWtlL2NpbmUteS10di9lbC1yZXRvLWVuLWVsLXF1ZS1sb3MtanVyYWRvcy1kZS1tYXN0ZXJjaGVmLWNvY2luYXJvbi0xNzczNDnSAW5odHRwczovL3d3dy5jYW5hbHJjbi5jb20vc3VwZXItbGlrZS9hbXAvY2luZS15LXR2L2VsLXJldG8tZW4tZWwtcXVlLWxvcy1qdXJhZG9zLWRlLW1hc3RlcmNoZWYtY29jaW5hcm9uLTE3NzM0OQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-23T02:15:00Z",
+            "content": null
+        }
+    ]
+}
